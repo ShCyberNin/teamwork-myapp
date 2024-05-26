@@ -18,7 +18,7 @@ basic idea of our dashboard?
 
 First, run the development server:
 
-cd to directory then, remember npm install first
+cd to directory then, remember ```bash npm install ``` first
 
 then npm run dev
 go to http://localhost/3000 to see results.
