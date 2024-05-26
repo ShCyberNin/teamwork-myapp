@@ -1,3 +1,15 @@
+## Something i just mess ard trying to do. yall can check it out maybe start off from here?? 
+
+Simple clean landing page with just some workds and login/sign up
+![landing-page](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/400c8d6a-0a35-4427-be56-cec56dad8ea3)
+
+login signup page.. 
+![simple-login](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/cac504d8-922b-484e-9e3d-b9e903484a61)
+![simple-signup](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/35c43e39-cb69-42a3-8da1-c8c4286fb54f)
+
+basic idea of our dashboard?
+![dashboard-page](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/13d7e878-2804-4d68-8de5-3de12cb659eb)
+
 ## Getting Started
 
 First, run the development server:
