@@ -18,10 +18,10 @@ basic idea of our dashboard?
 
 First, run the development server:
 
-cd to directory then, remember ```bash npm install ``` first
+cd to directory then, remember ``` npm install ``` in the terminal. this will install all the dependencies
 
-then npm run dev
-go to http://localhost/3000 to see results.
+then ``` npm run dev ``` in the terminal
+go to [http://localhost:3000](http://localhost:3000) with your browser to see results.
 
 ```bash
 npm run dev
