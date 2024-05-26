@@ -5,7 +5,11 @@ Simple clean landing page with just some workds and login/sign up
 
 login signup page.. 
 ![simple-login](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/cac504d8-922b-484e-9e3d-b9e903484a61)
+the sign up works, you all can crete acc to try and login..
 ![simple-signup](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/35c43e39-cb69-42a3-8da1-c8c4286fb54f)
+
+credentails secured with bcrypt on Supabase
+<img width="878" alt="supabase credential database" src="https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/97d5f55b-160e-4742-b7b2-b81b03305dcb">
 
 basic idea of our dashboard?
 ![dashboard-page](https://github.com/ShCyberNin/teamwork-myapp/assets/168265228/13d7e878-2804-4d68-8de5-3de12cb659eb)
